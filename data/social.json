@@ -1,14 +1,14 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
-      "image": "images/social/twitter.svg"
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/miguel-e-castillo-landeros-421496a7/",
+      "image": "images/social/linkedin.svg"
     },
     {
       "name": "Instagram",
       "url": "https://www.instagram.com/meclajer/",
-      "image": "images/social/intagram.svg"
+      "image": "images/social/instagram.svg"
     },
     {
       "name": "github",
