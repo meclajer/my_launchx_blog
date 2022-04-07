@@ -1,30 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Launch X Bitácora de viaje on Bitácora de Viaje</title>
-    <link>https://example.com/</link>
-    <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
+    <title>Launch X Bitácora de viaje on Bitácora de Viaje de Miguel</title>
+    <link>https://meclajer.github.io/my_launchx_blog/</link>
+    <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Miguel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://meclajer.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
-      <link>https://example.com/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      <title>About me</title>
+      <link>https://meclajer.github.io/my_launchx_blog/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <guid>https://meclajer.github.io/my_launchx_blog/pages/about/</guid>
+      <description>Who am I Hola, aquí vas a leer un poco sobre mi 😄
+  Jugador de videojuegos casual. Amante de la fotografía.   Uno de mis mayores pasatiempos son los videojuegos y la fotografía, además me gusta mucho el desarrollo de aplicaciones web y me gustaría aprender más acerca de gestión de desarrollo de software.</description>
     </item>
     
     <item>
-      <title>About me</title>
-      <link>https://example.com/pages/about/</link>
+      <title>Dia 4, semana 1, 12:43 hrs:</title>
+      <link>https://meclajer.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pages/about/</guid>
-      <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
- Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
- Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
+      <guid>https://meclajer.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Después de la sesión de ayer me encuentro motivado y abrumado, el Mission Comander Gilmar esta a otro nivel, empezare a trabajar en mis habilidades para estar al mismo nivel algun dia, empezare por realizar estas bitácoras y mantener actualizado el estatus de la misión.</description>
+    </item>
+    
+    <item>
+      <title>Mis expectativas</title>
+      <link>https://meclajer.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meclajer.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Para un desarrollador es importante trabajar en su cultura profecinal asi como trabajar los siguientes aspectos:
+ Comunicacion. Gestion de tiempo. Salud mental.  </description>
     </item>
     
   </channel>
