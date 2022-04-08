@@ -1,6 +1,6 @@
 ---
 title: "Día 4, semana 1, 12:43 hrs"
-date: 2022-07-04T13:16
+date: 2022-04-07T13:23:21-06:00
 description: 'Reporte de estado 1'
 ---
 
