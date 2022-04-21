@@ -6,9 +6,7 @@ description: 'Reporte de estado: QUE ES TDD'
 
 ## TDD test-driven development
 
-<p>El TDD es el desarrollo basado en pruebas, y conciste en generar primero las pruebas necesarias con base en los requerimientos y posteriormente generar el codigo necesario para complir con esos requermientos y al final generar una optimizacion del codigo generado sin dejar de lado qe la prueba debe seguir siendo aprobatoria.</p>
-
-======
+El TDD es el desarrollo basado en pruebas, y conciste en generar primero las pruebas necesarias con base en los requerimientos y posteriormente generar el codigo necesario para complir con esos requermientos y al final generar una optimizacion del codigo generado sin dejar de lado qe la prueba debe seguir siendo aprobatoria.
 
 ### Flujo del TDD
 
@@ -19,13 +17,13 @@ description: 'Reporte de estado: QUE ES TDD'
 
 ![Flujo de trabajo de TDD](https://developer.ibm.com/developer/default/articles/5-steps-of-test-driven-development/images/tdd-red-green-refactoring-v3.png)
 
-======
+***
 
 #### **PRO TIP**
 
-> <p>No confies en una prueba que no falle. -[Carlo Gilmar](https://github.com/carlogilmar)</p>
+> No confies en una prueba que no falle. -[Carlo Gilmar](https://github.com/carlogilmar)
 
-======
+___
 
 ### Puntos clave
 
