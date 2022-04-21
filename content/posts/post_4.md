@@ -10,18 +10,18 @@ El TDD es el desarrollo basado en pruebas, y conciste en generar primero las pru
 
 ### Flujo del TDD
 
-> ⋅⋅* Entender los requerimientos.
-> ⋅⋅* Plazmar los requerimientos a una prueba unitaria.
-> ⋅⋅* Generar el codigo necesario para pasar la prueba y pasar las pruebas.
-> ⋅⋅* Limpiar el codigo y verificar que la prueba siga siendo aprobada.
+> * Entender los requerimientos.
+> * Plazmar los requerimientos a una prueba unitaria.
+> * Generar el codigo necesario para pasar la prueba y pasar las pruebas.
+> * Limpiar el codigo y verificar que la prueba siga siendo aprobada.
 
 ![Flujo de trabajo de TDD](https://developer.ibm.com/developer/default/articles/5-steps-of-test-driven-development/images/tdd-red-green-refactoring-v3.png)
 
 
 ### Puntos clave
 
- ⋅⋅* Su enfoque es el **diseño** y no la **prueba**.
- ⋅⋅* No es sinonimo de muchas pruebas.
+ * Su enfoque es el **diseño** y no la **prueba**.
+ * No es sinonimo de muchas pruebas.
 
 ***
 
