@@ -6,7 +6,19 @@
     <description>Recent content in Blog on Bitácora de Viaje de Miguel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Apr 2022 13:23:21 -0600</lastBuildDate><atom:link href="https://meclajer.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Apr 2022 14:13:21 -0600</lastBuildDate><atom:link href="https://meclajer.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Día 2, semana 2</title>
+      <link>https://meclajer.github.io/my_launchx_blog/posts/post_4/</link>
+      <pubDate>Thu, 21 Apr 2022 14:13:21 -0600</pubDate>
+      
+      <guid>https://meclajer.github.io/my_launchx_blog/posts/post_4/</guid>
+      <description>TDD test-driven development ======
+Flujo del TDD   Entender los requerimientos. Plazmar los requerimientos a una prueba unitaria. Generar el codigo necesario para pasar la prueba y pasar las pruebas. Limpiar el codigo y verificar que la prueba siga siendo aprobada.   ======
+PRO TIP   ======
+Puntos clave   Su enfoque es el diseño y no la prueba. No es sinonimo de muchas pruebas.   </description>
+    </item>
+    
     <item>
       <title>Día 2, semana 2</title>
       <link>https://meclajer.github.io/my_launchx_blog/posts/post_3/</link>
