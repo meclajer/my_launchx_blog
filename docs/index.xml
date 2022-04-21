@@ -13,10 +13,8 @@
       <pubDate>Thu, 21 Apr 2022 14:13:21 -0600</pubDate>
       
       <guid>https://meclajer.github.io/my_launchx_blog/posts/post_4/</guid>
-      <description>TDD test-driven development ======
-Flujo del TDD   Entender los requerimientos. Plazmar los requerimientos a una prueba unitaria. Generar el codigo necesario para pasar la prueba y pasar las pruebas. Limpiar el codigo y verificar que la prueba siga siendo aprobada.   ======
-PRO TIP   ======
-Puntos clave   Su enfoque es el diseño y no la prueba. No es sinonimo de muchas pruebas.   </description>
+      <description>TDD test-driven development El TDD es el desarrollo basado en pruebas, y conciste en generar primero las pruebas necesarias con base en los requerimientos y posteriormente generar el codigo necesario para complir con esos requermientos y al final generar una optimizacion del codigo generado sin dejar de lado qe la prueba debe seguir siendo aprobatoria.
+Flujo del TDD   Entender los requerimientos. Plazmar los requerimientos a una prueba unitaria. Generar el codigo necesario para pasar la prueba y pasar las pruebas.</description>
     </item>
     
     <item>
